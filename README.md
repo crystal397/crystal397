@@ -34,7 +34,9 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/amazonwebservices-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white"/>
 </div>
 
+<!--
 -------------
 <b>CV & Portfolio</b><br>
 - Please find my CV [HERE]()<br>
 - Please find my Portfolio [HERE]()<br>
+-->
