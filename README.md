@@ -38,7 +38,3 @@ Here are some ideas to get you started:
 <b>CV & Portfolio</b><br>
 - Please find my CV [HERE]()<br>
 - Please find my Portfolio [HERE]()<br>
-
-<a href="https://www.linkedin.com/in/crystal397/" target="_blank"><img src="https://github.com/jasonheesanglee/jasonheesanglee/blob/main/image/LI-In-Bug.png" height="20"></a>
-
-
