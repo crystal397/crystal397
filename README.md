@@ -15,8 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![crystal397's GitHub stats](https://github-readme-stats.vercel.app/api?username=crystal397&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crystal397)
+## ✨GitHub Status✨
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=crystal397&theme=calm)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=crystal397&theme=calm&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=crystal397&theme=calm)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=crystal397&theme=calm)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=crystal397&theme=calm)
     
 <br><br>
 <div align="center">
