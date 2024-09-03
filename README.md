@@ -33,23 +33,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/amazonwebservices-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white"/>
 </div>
-    
-<br><br>
-<div align="center">
-  <b>Languages & Stacks</b><br>
-  
-  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/a5995564b5ff71c41da080abc49f1ba4132127c1/topics/python/python.png"></code>
-
-</div>
-
--------------
-<b>Who am I?</b>
-- Interested in new languages and cultures.<br>
-- Printed `Hello, World!` for the first time in April 2024.
-
--------------
-<b>Focusing on</b><br>
-- Data Engineering
 
 -------------
 <b>CV & Portfolio</b><br>
