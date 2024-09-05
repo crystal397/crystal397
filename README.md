@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 <b>CV & Portfolio</b><br>
 - Please find my CV [HERE]()<br>
 - Please find my Portfolio [HERE]()<br>
--->
+
 
 ## Stats
 <div align="center">
@@ -52,3 +52,5 @@ Here are some ideas to get you started:
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcrystal397%2Fkaggle-badge&count_bg=%23A8E1DB&title_bg=%23555555&icon=&icon_color=%23A8E1DB&title=hits&edge_flat=false">
   </div>
 </div>
+
+-->
