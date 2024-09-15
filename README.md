@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=crystal397&theme=calm)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=crystal397&theme=calm)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=crystal397&theme=calm)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=crystal397&show_icons=true&theme=radical)
 
 ----
 ## 🔥Tech Stack🔥
